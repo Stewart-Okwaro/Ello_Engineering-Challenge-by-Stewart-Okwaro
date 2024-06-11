@@ -9,18 +9,7 @@ Here is a demo of the project:
   Your browser does not support the video tag.
 </video>
 
-Welcome to my React project! Below you will find instructions on how to set up and run the project using Yarn.
 
-## Getting Started
-
-Follow these steps to get the project up and running:
-
-### 1. Clone the Repository
-
-First, clone the repository to your local machine using the following command:
-
-```sh
-git clone https://github.com/your-username/your-repo.git
 
 
 
