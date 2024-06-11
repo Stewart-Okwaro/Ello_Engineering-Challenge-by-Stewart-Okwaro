@@ -14,7 +14,7 @@ Follow these steps to get the project up and running:
 First, clone the repository to your local machine using the following command:
 
 ```sh
-[git clone https://github.com/your-username/your-repo.git](https://github.com/Stewart-Okwaro/Ello_Engineering-Challenge-by-Stewart-Okwaro.git)
+https://github.com/Stewart-Okwaro/Ello_Engineering-Challenge-by-Stewart-Okwaro.git
 ```
 
 ### Data
