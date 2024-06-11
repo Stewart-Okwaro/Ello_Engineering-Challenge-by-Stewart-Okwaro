@@ -43,17 +43,6 @@ Then run the following command to start the server
 npm start
 ```
 
-This start a Graphql server at the url `http://localhost:4000/`, the server has a single query `books` that returns a list of books. 
 
-```graphql
-query Books {
-  books {
-    author
-    coverPhotoURL
-    readingLevel
-    title
-  }
-}
-```
 
 
