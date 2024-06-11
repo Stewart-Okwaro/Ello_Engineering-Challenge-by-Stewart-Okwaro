@@ -7,7 +7,7 @@
 
 Here is a demo of the project:
 <video width="600" controls>
-  <source src="https://github.com/Stewart-Okwaro/Ello_Engineering-Challenge-by-Stewart-Okwaro/frontend/src/assets/Ello Frontend demo.mp4>
+    <source src="https://github.com/Stewart-Okwaro/Ello_Engineering-Challenge-by-Stewart-Okwaro/raw/main/frontend/src/assets/Ello%20Frontend%20demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 Welcome to my React project! Below you will find instructions on how to set up and run the project using Yarn.
