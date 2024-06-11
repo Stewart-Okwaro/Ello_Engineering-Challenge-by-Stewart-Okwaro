@@ -1,0 +1,90 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+/* Add this CSS to your stylesheets */
+.book-list {
+  position: absolute;
+  top: 56px; /* Adjust according to your header height */
+  left: 0;
+  width: 100%;
+  z-index: 1;
+  background-color: #fff;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  max-height: 200px; /* Adjust as needed */
+  overflow-y: auto;
+}
+
+.reading-list {
+  /* Adjust styles for the reading list */
+}
+.SearchBar{
+  padding-top:5vh;
+  width:50
+}
+.reading-list-title {
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  background-color:red;
+  padding: 8px;
+}
+.BookItem {
+  font-family: 'Mulish', sans-serif;
+}
+.BookList {
+  font-family: 'Mulish', sans-serif;
+  font-size: larger;
+}
+.ReadingListContainer {
+  font-family: 'Mulish', sans-serif;
+}
+.BookListContainer {
+  font-family: 'Mulish', sans-serif;
+}
+.SearchBarContainer {
+  font-family: 'Mulish', sans-serif;
+}
+.AppContainer {
+  font-family: 'Mulish', sans-serif;
+}
